@@ -40,20 +40,7 @@
         "ImagesCount": 10
       }
     },
-    "Seconds": {
-      "Tens": {
-        "X": 248,
-        "Y": 277,
-        "ImageIndex": 12,
-        "ImagesCount": 10
-      },
-      "Ones": {
-        "X": 264,
-        "Y": 277,
-        "ImageIndex": 12,
-        "ImagesCount": 10
-      }
-    }
+    "Seconds": {}
   },
   "Activity": {
     "Pulse": {
@@ -83,9 +70,9 @@
     "MonthAndDay": {
       "OneLine": {
         "Number": {
-          "TopLeftX": 101,
+          "TopLeftX": 115,
           "TopLeftY": 243,
-          "BottomRightX": 166,
+          "BottomRightX": 180,
           "BottomRightY": 265,
           "Alignment": "TopCenter",
           "Spacing": 1,
