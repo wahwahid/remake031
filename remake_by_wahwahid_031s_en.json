@@ -70,11 +70,11 @@
     "MonthAndDay": {
       "OneLine": {
         "Number": {
-          "TopLeftX": 115,
-          "TopLeftY": 243,
-          "BottomRightX": 180,
-          "BottomRightY": 265,
-          "Alignment": "TopCenter",
+          "TopLeftX": 175,
+          "TopLeftY": 251,
+          "BottomRightX": 240,
+          "BottomRightY": 273,
+          "Alignment": "TopRight",
           "Spacing": 1,
           "ImageIndex": 12,
           "ImagesCount": 10
@@ -85,8 +85,8 @@
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 191,
-      "Y": 243,
+      "X": 114,
+      "Y": 251,
       "ImageIndex": 23,
       "ImagesCount": 21
     }
